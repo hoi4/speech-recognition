@@ -16,13 +16,13 @@ Maintenance Status: Actively Maintained
 To use npm
 
 ```bash
-npm install @capacitor-community/speech-recognition
+npm install @hoi4/speech-recognition
 ```
 
 To use yarn
 
 ```bash
-yarn add @capacitor-community/speech-recognition
+yarn add @hoi4/speech-recognition
 ```
 
 Sync native files
@@ -60,7 +60,7 @@ No configuration required for this plugin
 ## Usage
 
 ```typescript
-import { SpeechRecognition } from "@capacitor-community/speech-recognition";
+import { SpeechRecognition } from "@hoi4/speech-recognition";
 
 /**
  * This method will check if speech recognition feature is available on the device.

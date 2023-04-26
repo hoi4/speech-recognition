@@ -1,6 +1,6 @@
 {
   "name": "@hoi4/speech-recognition",
-  "version": "4.1.0",
+  "version": "4.1.2",
   "description": "A native plugin for speech recognition",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -39,7 +39,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCommunitySpeechRecognition.podspec"
+    "Hoi4SpeechRecognition.podspec"
   ],
   "keywords": [
     "capacitor",
